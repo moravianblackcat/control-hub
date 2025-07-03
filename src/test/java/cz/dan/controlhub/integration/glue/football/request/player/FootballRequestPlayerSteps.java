@@ -11,7 +11,7 @@ import java.io.IOException;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @RequiredArgsConstructor
-public class FootballRequestPlayerStep {
+public class FootballRequestPlayerSteps {
 
     private static final String FOOTBALL_PLAYER_REQUEST_TOPIC_NAME = "fetcher.request.football.player";
 

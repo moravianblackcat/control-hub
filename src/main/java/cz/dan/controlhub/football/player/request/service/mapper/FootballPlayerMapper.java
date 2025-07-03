@@ -1,9 +1,8 @@
 package cz.dan.controlhub.football.player.request.service.mapper;
 
+import cz.dan.avro.fetcher.request.FootballPlayerRequest;
 import cz.dan.controlhub.football.player.request.controller.FootballPlayerRequestDto;
 import org.mapstruct.Mapper;
-
- import cz.dan.avro.fetcher.request.FootballPlayerRequest;
 import org.mapstruct.Mapping;
 
 import static org.mapstruct.ReportingPolicy.IGNORE;
