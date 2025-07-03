@@ -1,4 +1,4 @@
-package cz.dan.controlhub.football.player.request.controller;
+package cz.dan.controlhub.football.request.controller;
 
 import java.util.List;
 
