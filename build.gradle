@@ -78,8 +78,7 @@ dependencies {
     testImplementation 'io.cucumber:cucumber-junit-platform-engine'
     testImplementation 'org.junit.platform:junit-platform-suite'
     testImplementation "org.assertj:assertj-core:${assertjVersion}"
-    testImplementation "cz.dan:common-helpers:1.0.0"
-    testImplementation "cz.dan:integration-tests:3.0.3"
+    testImplementation "cz.dan:integration-tests:4.0.0"
 }
 
 dependencyManagement {
